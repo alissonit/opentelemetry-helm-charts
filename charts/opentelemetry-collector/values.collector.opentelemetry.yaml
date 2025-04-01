@@ -1,1 +1,1 @@
-mode: deployment
+mode: daemonset
